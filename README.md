@@ -1,4 +1,4 @@
-# Segmenta-o-de-Clientes
+# Segmenta-o-de-Clientes em SHOPPING x streaming
 
 ![image](https://github.com/user-attachments/assets/7eb09b53-8b3d-4ae5-92bc-8ca7626fb7f1)
 
