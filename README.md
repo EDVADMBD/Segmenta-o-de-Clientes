@@ -29,7 +29,7 @@ No entanto, como sabemos que uma segmentação de clientes depende de várias di
 Capítulo 5: O Resultado — A Jornada do Cliente Personalizada
 Finalmente, com os clusters bem definidos, criamos personas detalhadas para cada grupo de clientes. Temos, por exemplo, o “Visitante Frequente de Fim de Semana”, o “Cliente Premium que Busca Luxo” e o “Explorador de Ofertas”, cada um com características distintas, necessidades e padrões de compra.
 
-Agora, o Shopping Morumbi pode criar campanhas de marketing personalizadas, enviar ofertas específicas e até mesmo ajustar a disposição das lojas e produtos de acordo com os padrões identificados. A arquitetura de dados sólida e a análise cuidadosa abriram portas para uma experiência de cliente muito mais personalizada e, consequentemente, para um aumento significativo nas vendas e na fidelização.
+Agora, o Shopping pode criar campanhas de marketing personalizadas, enviar ofertas específicas e até mesmo ajustar a disposição das lojas e produtos de acordo com os padrões identificados. A arquitetura de dados sólida e a análise cuidadosa abriram portas para uma experiência de cliente muito mais personalizada e, consequentemente, para um aumento significativo nas vendas e na fidelização.
 
 Epílogo: Um Futuro Baseado em Dados
 Com a segmentação de clientes implementada, o Shopping  agora tem a capacidade de fazer ajustes contínuos e melhorar ainda mais sua operação. Além de aumentar o engajamento, a arquitetura de dados permite que a equipe de marketing analise tendências e preveja comportamentos futuros, garantindo que o shopping continue a ser um destino atrativo para todos os perfis de consumidores.
