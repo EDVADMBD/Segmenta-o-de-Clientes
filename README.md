@@ -27,7 +27,7 @@ Agora, estamos prontos para iniciar a clusterização. Utilizamos técnicas como
 No entanto, como sabemos que uma segmentação de clientes depende de várias dimensões — como frequência de visita, valor gasto, preferências de loja —, nos concentramos em garantir que cada fator seja devidamente ponderado. Por exemplo, os clientes que frequentam o shopping principalmente nos finais de semana podem ser agrupados em um cluster separado daqueles que fazem visitas frequentes durante a semana.
 
 Capítulo 5: O Resultado — A Jornada do Cliente Personalizada
-Finalmente, com os clusters bem definidos, criamos personas detalhadas para cada grupo de clientes. Temos, por exemplo, o “Visitante Frequente de Fim de Semana”, o “Cliente Premium que Busca Luxo” e o “Explorador de Ofertas”, cada um com características distintas, necessidades e padrões de compra.
+Finalmente, com os clusters bem definidos, criamos a relação dos dados detalhadas para cada grupo de clientes. Temos, por exemplo, o “Visitante Frequente de Fim de Semana”, o “Cliente Premium que Busca Luxo” e o “Explorador de Ofertas”, cada um com características distintas, necessidades e padrões de compra.
 
 Agora, o Shopping pode criar campanhas de marketing personalizadas, enviar ofertas específicas e até mesmo ajustar a disposição das lojas e produtos de acordo com os padrões identificados. A arquitetura de dados sólida e a análise cuidadosa abriram portas para uma experiência de cliente muito mais personalizada e, consequentemente, para um aumento significativo nas vendas e na fidelização.
 
