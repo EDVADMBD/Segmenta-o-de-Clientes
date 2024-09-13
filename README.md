@@ -4,7 +4,7 @@
 
 Storytelling: Avaliação da Arquitetura de Dados para Segmentação de Clientes de um Shopping
 
-Imagine que você foi contratado pelo Shopping Morumbi para otimizar a experiência dos clientes e maximizar as vendas. A missão é clara: realizar uma segmentação de clientes precisa e eficiente, utilizando técnicas de clusterização. Para isso, é essencial que a arquitetura de dados do shopping esteja alinhada com essa meta, garantindo que a análise de dados seja fluida e bem estruturada.
+Imagine que você foi contratado por Shopping  para otimizar a experiência dos clientes e maximizar as vendas. A missão é clara: realizar uma segmentação de clientes precisa e eficiente, utilizando técnicas de clusterização. Para isso, é essencial que a arquitetura de dados do shopping esteja alinhada com essa meta, garantindo que a análise de dados seja fluida e bem estruturada.
 
 Capítulo 1: A Base de Tudo — Coleta de Dados
 Tudo começa com a coleta de dados. O shopping já possui várias fontes de informação: transações de compra, visitas de clientes, interações via Wi-Fi e até mesmo o uso de aplicativos de fidelidade. Porém, antes de prosseguirmos com a segmentação, precisamos garantir que esses dados estão sendo capturados de maneira consistente e completa.
@@ -32,6 +32,6 @@ Finalmente, com os clusters bem definidos, criamos personas detalhadas para cada
 Agora, o Shopping Morumbi pode criar campanhas de marketing personalizadas, enviar ofertas específicas e até mesmo ajustar a disposição das lojas e produtos de acordo com os padrões identificados. A arquitetura de dados sólida e a análise cuidadosa abriram portas para uma experiência de cliente muito mais personalizada e, consequentemente, para um aumento significativo nas vendas e na fidelização.
 
 Epílogo: Um Futuro Baseado em Dados
-Com a segmentação de clientes implementada, o Shopping Morumbi agora tem a capacidade de fazer ajustes contínuos e melhorar ainda mais sua operação. Além de aumentar o engajamento, a arquitetura de dados permite que a equipe de marketing analise tendências e preveja comportamentos futuros, garantindo que o shopping continue a ser um destino atrativo para todos os perfis de consumidores.
+Com a segmentação de clientes implementada, o Shopping  agora tem a capacidade de fazer ajustes contínuos e melhorar ainda mais sua operação. Além de aumentar o engajamento, a arquitetura de dados permite que a equipe de marketing analise tendências e preveja comportamentos futuros, garantindo que o shopping continue a ser um destino atrativo para todos os perfis de consumidores.
 
 Essa história mostra como a arquitetura de dados bem estruturada não só viabiliza a segmentação de clientes, mas também cria uma base sólida para o sucesso contínuo no mundo dinâmico do varejo.
