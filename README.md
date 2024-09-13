@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/7eb09b53-8b3d-4ae5-92bc-8ca7626fb7f1)
 
-Storytelling: Avaliação da Arquitetura de Dados para Segmentação de Clientes no Shopping Morumbi
+Storytelling: Avaliação da Arquitetura de Dados para Segmentação de Clientes de um Shopping
 
 Imagine que você foi contratado pelo Shopping Morumbi para otimizar a experiência dos clientes e maximizar as vendas. A missão é clara: realizar uma segmentação de clientes precisa e eficiente, utilizando técnicas de clusterização. Para isso, é essencial que a arquitetura de dados do shopping esteja alinhada com essa meta, garantindo que a análise de dados seja fluida e bem estruturada.
 
