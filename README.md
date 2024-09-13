@@ -1,4 +1,4 @@
-# Segmenta-o-de-Clientes em SHOPPING x streaming
+# Segmenta-o-de-Clientes em SHOPPING x STREAMING
 
 ![image](https://github.com/user-attachments/assets/7eb09b53-8b3d-4ae5-92bc-8ca7626fb7f1)
 
@@ -35,3 +35,5 @@ Epílogo: Um Futuro Baseado em Dados
 Com a segmentação de clientes implementada, o Shopping  agora tem a capacidade de fazer ajustes contínuos e melhorar ainda mais sua operação. Além de aumentar o engajamento, a arquitetura de dados permite que a equipe de marketing analise tendências e preveja comportamentos futuros, garantindo que o shopping continue a ser um destino atrativo para todos os perfis de consumidores.
 
 Essa história mostra como a arquitetura de dados bem estruturada não só viabiliza a segmentação de clientes, mas também cria uma base sólida para o sucesso contínuo no mundo dinâmico do varejo.
+
+Veja detalhes do código aqui:  https://github.com/EDVADMBD/Segmenta-o-de-Clientes/blob/main/shopping.ipynb
