@@ -1,6 +1,9 @@
 # Segmentação de Clientes em SHOPPING x STREAMING
 =====================================================
 
+![image](https://github.com/user-attachments/assets/271727cb-d9a3-4a44-b85b-c53e68b8afec)
+
+
 ## Resumo
 --------
 
