@@ -4,7 +4,7 @@
 
 Storytelling: Avaliação da Arquitetura de Dados para Segmentação de Clientes de um Shopping
 
-Imagine que você foi contratado por Shopping  para otimizar a experiência dos clientes e maximizar as vendas. A missão é clara: realizar uma segmentação de clientes precisa ser eficiente, utilizando técnicas de clusterização. Para isso, é essencial que a área de arquitetura de dados esteja alinhada com essa meta, garantindo que a análise de dados seja fluida e bem estruturada, e criar uma base de dados que inclua informações sobre clientes e a aquisição de pacotes fornecidos pela Empresa de Empresa de TV_Streaming Brasil, no qual foi firmada uma parceria para uma campanha campanha promocinal.
+Imagine que você foi contratado por Shopping  para otimizar a experiência dos clientes e maximizar as vendas. A missão é clara: realizar uma segmentação de clientes precisa ser eficiente, utilizando técnicas de clusterização. Para isso, é essencial que a área de arquitetura de dados esteja alinhada com essa meta, garantindo que a análise de dados seja fluida e bem estruturada, e criar uma base de dados que inclua informações sobre clientes e a aquisição de pacotes fornecidos pela Empresa TV_Streaming Brasil, no qual foi firmada uma parceria para uma campanha campanha promocinal.
 
 Capítulo 1: A Base de Tudo — Coleta de Dados
 Tudo começa com a coleta de dados. O shopping já possui várias fontes de informação: transações de compra, visitas de clientes, interações via Wi-Fi e até mesmo o uso de aplicativos de fidelidade. Porém, antes de prosseguirmos com a segmentação, precisamos garantir que esses dados estão sendo capturados de maneira consistente e completa.
